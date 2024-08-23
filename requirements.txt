@@ -6,4 +6,4 @@ langchain_core
 pypdf
 sentence_transformers
 faiss-cpu
-chromadb
+lancedb
